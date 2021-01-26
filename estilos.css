@@ -18,7 +18,6 @@ body
     padding: 0.5em;
 }
 
-<<<<<<< HEAD
 #header
 {
     background: rgb(10, 99, 105);
@@ -26,7 +25,9 @@ body
     font-weight: bold;
     margin: 0;
     padding: 1em; 
-=======
+}
+
+
 #footer
 {
     background: rgb(204, 84, 158);
@@ -34,7 +35,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;  
->>>>>>> footer
+
 }
 
 #container
