@@ -18,6 +18,15 @@ body
     padding: 0.5em;
 }
 
+#header
+{
+    background: rgb(10, 99, 105);
+    color: rgb(207, 133, 63);
+    font-weight: bold;
+    margin: 0;
+    padding: 1em; 
+}
+
 #container
 {
     width: 70%;
