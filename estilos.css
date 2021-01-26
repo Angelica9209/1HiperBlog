@@ -18,6 +18,15 @@ body
     padding: 0.5em;
 }
 
+#footer
+{
+    background: rgb(204, 84, 158);
+    color: rgb(172, 157, 24);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;  
+}
+
 #container
 {
     width: 70%;
